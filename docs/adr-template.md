@@ -30,15 +30,15 @@ State the chosen approach in one clear paragraph.
 
 ### Positive
 
-- 
+-
 
 ### Negative
 
-- 
+-
 
 ### Neutral
 
-- 
+-
 
 ## Validation
 
