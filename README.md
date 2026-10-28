@@ -87,13 +87,25 @@ An engineering artifact should demonstrate several of these qualities:
 - Mentoring or review leadership
 - Maintainable documentation and operations
 
-## Project templates
+## Operating guides and templates
+
+- [Documentation inventory](docs/documentation-inventory.md)
+- [Documentation-first delivery lifecycle](docs/delivery-lifecycle.md)
+- [Requirements template](docs/requirements-template.md)
+- [ADR template](docs/adr-template.md)
+- [Data/API contract template](docs/data-api-contract-template.md)
+- [Test plan template](docs/test-plan-template.md)
+- [Operational runbook template](docs/operational-runbook-template.md)
+- [Release checklist template](docs/release-checklist-template.md)
+- [Repository governance](docs/repository-governance.md)
+
+## Domain guides and examples
 
 - [Frontend systems](docs/frontend-systems.md)
 - [Distributed services](docs/distributed-services.md)
-- [Architecture decisions](docs/architecture-decision.md)
-- [Benchmark report](docs/benchmark-report.md)
-- [Security review](docs/security-review.md)
+- [Architecture decision example](docs/architecture-decision.md)
+- [Benchmark report example](docs/benchmark-report.md)
+- [Security review example](docs/security-review.md)
 
 ## 2026 portfolio focus
 
